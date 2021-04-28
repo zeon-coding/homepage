@@ -1,0 +1,27 @@
+.navbar-dark .navbar-brand {
+    color: rgba(255, 255, 255, 0.904);
+}
+
+button, input, optgroup, select, textarea {
+    margin-right: 5px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+
+.close {
+    cursor: pointer;
+}
+
+.alert-primary {
+    margin-top: 1px;
+}
+
+.copyright {
+    margin-top: 20px;
+    width: 100%;
+    height: 30px;
+    background-color: rgb(29, 29, 29);
+    color: white;
+    text-align: center;
+}
